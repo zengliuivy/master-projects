@@ -1,0 +1,194 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\burl{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+\providecommand{\doi}[1]{\url{https://doi.org/#1}}
+\bibcommenthead
+\small
+
+\bibitem{bib1}
+\bibinfo{author}{Zhang, Y.} \& \bibinfo{author}{Gu, X.}
+\newblock \bibinfo{title}{Multi-formation track initiation method based on
+  density clustering} (\bibinfo{year}{2020}).
+
+\bibitem{bib2}
+\bibinfo{author}{Zhang, C.}
+\newblock \emph{\bibinfo{title}{Research on the multi-target track initiation
+  under heavy clutter}}.
+\newblock Ph.D. thesis, \bibinfo{school}{Harbin Engineering University}
+  (\bibinfo{year}{2018}).
+
+\bibitem{bib3}
+\bibinfo{author}{Wang, F.}
+\newblock \bibinfo{title}{Track initiation algorithm based on hough transform}.
+\newblock \emph{\bibinfo{journal}{Journal of Hangzhou Dianzi University}}
+  \textbf{\bibinfo{volume}{28}}~(6), \bibinfo{pages}{87--90}
+  (\bibinfo{year}{2008}) .
+
+\bibitem{bib4}
+\bibinfo{author}{Trunk, G.~V.} \& \bibinfo{author}{Wilson, J.~D.}
+\newblock \bibinfo{title}{Track initiation of occasionally unresolved radar
+  targets}.
+\newblock \emph{\bibinfo{journal}{IEEE Transactions on Aerospace \& Electronic
+  Systems}} \textbf{\bibinfo{volume}{6}}~(11), \bibinfo{pages}{122--130}
+  (\bibinfo{year}{1981}) .
+
+\bibitem{bib5}
+\bibinfo{author}{Su}, \bibinfo{author}{F.~Wang, G.}, \bibinfo{author}{He, Y.}
+  \& \bibinfo{author}{Xia, M.}
+\newblock \bibinfo{title}{Track initiation algorithm based on the modified
+  logic}.
+\newblock \emph{\bibinfo{journal}{Modern Defense Technology}}
+  \textbf{\bibinfo{volume}{32}}~(5), \bibinfo{pages}{66--68}
+  (\bibinfo{year}{2004}) .
+
+\bibitem{bib6}
+\bibinfo{author}{Zhu, Z.}
+\newblock \bibinfo{title}{A universal track initiation model}.
+\newblock \emph{\bibinfo{journal}{Acta Aeronautica et Astronautica Sinica}}
+  \textbf{\bibinfo{volume}{30}}~(3), \bibinfo{pages}{497--504}
+  (\bibinfo{year}{2009}) .
+
+\bibitem{bib7}
+\bibinfo{author}{Mou, C.}, \bibinfo{author}{Wang, W.}, \bibinfo{author}{Zhang,
+  M.} \& \bibinfo{author}{Gao, Y.}
+\newblock \bibinfo{title}{Track initiation algorithm based on polar coordinate
+  system}.
+\newblock \emph{\bibinfo{journal}{Fire Control Radar Technology}}
+  \textbf{\bibinfo{volume}{42}}~(1), \bibinfo{pages}{42--46}
+  (\bibinfo{year}{2013}) .
+
+\bibitem{bib8}
+\bibinfo{author}{Zhang, H.} \& \bibinfo{author}{Liu, X.}
+\newblock \bibinfo{title}{Boundaries detection algorithm for grid-based
+  clustering}.
+\newblock \emph{\bibinfo{journal}{Control and Decision}}
+  \textbf{\bibinfo{volume}{26}}~(12), \bibinfo{pages}{1846--1850}
+  (\bibinfo{year}{2011}) .
+
+\bibitem{bib9}
+\bibinfo{author}{Jia, Y.} \& \bibinfo{author}{Xu, Z.}
+\newblock \bibinfo{title}{An improved track initiation algorithm in
+  multi-target tracking}.
+\newblock \emph{\bibinfo{journal}{Modern Computer}}
+  \textbf{\bibinfo{volume}{9}}, \bibinfo{pages}{94--98} (\bibinfo{year}{2017})
+  .
+
+\bibitem{bib10}
+\bibinfo{author}{Carlson, B.~D.}, \bibinfo{author}{Evans, E.~D.} \&
+  \bibinfo{author}{Wilson, S.~L.}
+\newblock \bibinfo{title}{Errata: Search radar detection and track with the
+  hough transform}.
+\newblock \emph{\bibinfo{journal}{IEEE Transactions on Aerospace \& Electronic
+  Systems}} \textbf{\bibinfo{volume}{30}}~(1), \bibinfo{pages}{109--115}
+  (\bibinfo{year}{2003}) .
+
+\bibitem{bib11}
+\bibinfo{author}{Wang, G.}, \bibinfo{author}{Su, F.}, \bibinfo{author}{Mao, T.}
+  \& \bibinfo{author}{He, Y.}
+\newblock \bibinfo{title}{Fast track initiation algorithm in clutter
+  environments based on hough transform and logic}.
+\newblock \emph{\bibinfo{journal}{Acta Simulata Systematica Sinica}}
+  \textbf{\bibinfo{volume}{14}}~(7), \bibinfo{pages}{874--876}
+  (\bibinfo{year}{2002}) .
+
+\bibitem{bib12}
+\bibinfo{author}{Vo, B.~N.}, \bibinfo{author}{S, S.} \& \bibinfo{author}{A, D.}
+\newblock \bibinfo{title}{Sequential monte carlo methods for multi-target
+  filtering with random finite sets}.
+\newblock \emph{\bibinfo{journal}{IEEE Transactions on Aerospace and Electronic
+  Systems}} \textbf{\bibinfo{volume}{41}}~(1), \bibinfo{pages}{1224--1245}
+  (\bibinfo{year}{2005}) .
+
+\bibitem{bib13}
+\bibinfo{author}{Liang, Z.}, \bibinfo{author}{Wang, R.} \&
+  \bibinfo{author}{Guo, X.}
+\newblock \bibinfo{title}{Parallel hough transform track initiation algorithm
+  based on fuzzy}.
+\newblock \emph{\bibinfo{journal}{Journal of Projectiles, Rockets, Missiles and
+  Guidance}} \textbf{\bibinfo{volume}{35}}~(2), \bibinfo{pages}{159--162}
+  (\bibinfo{year}{2015}) .
+
+\bibitem{bib14}
+\bibinfo{author}{Xue, J.}, \bibinfo{author}{Chen, J.}, \bibinfo{author}{Xu, H.}
+  \& \bibinfo{author}{Meng, F.}
+\newblock \bibinfo{title}{The track initiation approach based on sequence hough
+  transform and logic algorithm in complex environment}.
+\newblock \emph{\bibinfo{journal}{Radio Engineering.}}
+  \textbf{\bibinfo{volume}{52}}~(4), \bibinfo{pages}{624--629}
+  (\bibinfo{year}{2022}) .
+
+\bibitem{bib15}
+\bibinfo{author}{Leung, H.} \& \bibinfo{author}{Hu, Z.}
+\newblock \bibinfo{title}{Evaluation of multiple target track initiation
+  techniques in real radar tracking environments}.
+\newblock \emph{\bibinfo{journal}{IEE Proceedings Radar Sonar \& Navigation}}
+  \textbf{\bibinfo{volume}{143}}~(4), \bibinfo{pages}{246--254}
+  (\bibinfo{year}{1996}) .
+
+\bibitem{bib16}
+\bibinfo{author}{Zhu, H.}, \bibinfo{author}{Han, C.}, \bibinfo{author}{Han, H.}
+  \& \bibinfo{author}{Zuo, G.}
+\newblock \bibinfo{title}{Study on approaches for track initiation}.
+\newblock \emph{\bibinfo{journal}{Acta Aeronautica ET Astronautica Sinica}}
+  \textbf{\bibinfo{volume}{25}}~(3), \bibinfo{pages}{284--288}
+  (\bibinfo{year}{2004}) .
+
+\bibitem{bib17}
+\bibinfo{author}{Kalman, R.~E.} \& \bibinfo{author}{Bucy, R.~S.}
+\newblock \bibinfo{title}{New results in linear filtering and prediction
+  theory}.
+\newblock \emph{\bibinfo{journal}{J. basic Eng.}}
+  \textbf{\bibinfo{volume}{83}}~(1), \bibinfo{pages}{95--108}
+  (\bibinfo{year}{1961}) .
+
+\bibitem{bib18}
+\bibinfo{author}{Mukhopadhyay, P.} \& \bibinfo{author}{Chaudhuri, B.~B.}
+\newblock \bibinfo{title}{A survey of hough transform}.
+\newblock \emph{\bibinfo{journal}{Pattern Recognition}}
+  \textbf{\bibinfo{volume}{48}}~(3), \bibinfo{pages}{993--1010}
+  (\bibinfo{year}{2015}) .
+
+\bibitem{bib19}
+\bibinfo{author}{Tang, L.}, \bibinfo{author}{Xie, W.} \&
+  \bibinfo{author}{Huang, J.}
+\newblock \bibinfo{title}{Adaptive fuzzy hough transform}.
+\newblock \emph{\bibinfo{journal}{Acta Electronica Sinica}}
+  \textbf{\bibinfo{volume}{32}}~(6), \bibinfo{pages}{946--949}
+  (\bibinfo{year}{2004}) .
+
+\bibitem{bib20}
+\bibinfo{author}{He, Y.}, \bibinfo{author}{Xiu, J.} \& \bibinfo{author}{Guan,
+  X.}
+\newblock \emph{\bibinfo{title}{Radar data processing and application}}
+  (\bibinfo{publisher}{Publishing House of Electronics Industry},
+  \bibinfo{address}{China}, \bibinfo{year}{2013}).
+
+\bibitem{bib21}
+\bibinfo{author}{Yu, S.}, \bibinfo{author}{Chen, M.} \& \bibinfo{author}{Cao,
+  J.}
+\newblock \bibinfo{title}{Tracking initiation algorithm based on grid
+  clustering and modified logic algorithm}.
+\newblock \emph{\bibinfo{journal}{Computer Science}}
+  \textbf{\bibinfo{volume}{42}}~(4), \bibinfo{pages}{181--184,205}
+  (\bibinfo{year}{2013}) .
+
+\bibitem{bib22}
+\bibinfo{author}{Sun, Q.}, \bibinfo{author}{Hui, X.} \& \bibinfo{author}{Guo,
+  L.}
+\newblock \bibinfo{title}{A track initiation algorithm based on modified hough
+  transform}.
+\newblock \emph{\bibinfo{journal}{Aeronautical Computing Technique}}
+  \textbf{\bibinfo{volume}{41}}~(2), \bibinfo{pages}{10--12}
+  (\bibinfo{year}{2011}) .
+
+\bibitem{bib23}
+\bibinfo{author}{He, P.}
+\newblock \emph{\bibinfo{title}{Study on track initiation algorithm for Hough
+  transform}}.
+\newblock Ph.D. thesis, \bibinfo{school}{Northwestern Polytechnical University}
+  (\bibinfo{year}{2007}).
+
+\end{thebibliography}
